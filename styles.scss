@@ -1,0 +1,12 @@
+@import "./styles/config";
+
+main {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+@import "./styles/books";
+@import "./styles/events";
+@import "./styles/global";
+@import "./styles/grid";
+@import "./styles/header";
